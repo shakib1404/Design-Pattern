@@ -1,0 +1,6 @@
+
+ interface Transport {
+	
+   void Deliver();
+    
+}
